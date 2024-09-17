@@ -1,4 +1,4 @@
 # Image Carousel
-Project from `Form Validation`section of `The Odin Project`
+Project from `Dynamic User Interface Interaction`section of `The Odin Project`
 
-Live Demo: [Here]()
+Live Demo: [Here](https://g1deondt.github.io/odin-image-carousel/)
